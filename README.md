@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1>Hi, I'm Deacon <br/>
 
-<!--
-**deaconroundy/deaconroundy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> 👨‍💻 Cyber Security Projects:</h2>
 
-Here are some ideas to get you started:
+<h2> 📄 Full Progress Log</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- https://docs.google.com/document/d/1xe_kFdZgK3WQk7dTPPf_giz8HLBE5N8ZuR2Y6wuMubM/edit?tab=t.0
+ 
+<h2> 📺 Videos Used</h2>
+
+ - https://www.youtube.com/watch?v=zgqfWLHNKLk&t=243s
+
+
+
+<h2> 📃 Certifications:</h2>
+
+
+
+
